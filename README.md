@@ -14,10 +14,10 @@ O OpenAI é um laboratório de pesquisa com sede em San Francisco, Califórnia. 
 
 OpenAI Gym é um kit de ferramentas para desenvolver e comparar algoritmos de aprendizado por reforço. Ele oferece suporte a agentes de ensino, desde caminhadas até jogos como Pong ou pinball .
 
-* [OpenAi Gym](https://gym.openai.com/) - Corretora para trabalhar com o mercado de Forex.
+* [OpenAi Gym](https://gym.openai.com/) - Site Oficial.
 
 
-# NoteBook
+# Notebook
 
 * Neste repositorio esta o notebook com a explicação passo-a-passo de como implementar um ambiente do OpenAiGym e utiliar o Q-Learning para treinar dentro do Ambiente.
 
