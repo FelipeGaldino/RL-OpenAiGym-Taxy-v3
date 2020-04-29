@@ -1,5 +1,7 @@
 # Aprendizado por reforço
 
+![RL](https://user-images.githubusercontent.com/45602322/80558116-2914e380-89a7-11ea-8da5-ab5fd3f081df.png)
+
 A Aprendizagem Por Reforço é o treinamento de modelos de aprendizado de máquina para tomar uma sequência de decisões. O agente aprende a atingir uma meta em um ambiente incerto e potencialmente complexo. No aprendizado por reforço, o sistema de inteligência artificial enfrenta uma situação. O computador utiliza tentativa e erro para encontrar uma solução para o problema. Para que a máquina faça o que o programador deseja, a inteligência artificial recebe recompensas ou penalidades pelas ações que executa. Seu objetivo é maximizar a recompensa total.
 
 Embora o Cientista de Dados defina a política de recompensa – isto é, as regras do jogo – ele não dá ao modelo nenhuma dica ou sugestão de como resolver o jogo. Cabe ao modelo descobrir como executar a tarefa para maximizar a recompensa, começando com testes totalmente aleatórios e terminando com táticas sofisticadas. Ao alavancar o poder da pesquisa e de muitas tentativas, o aprendizado por reforço é atualmente a maneira mais eficaz de sugerir a criatividade da máquina. Ao contrário dos seres humanos, a inteligência artificial pode reunir experiência de milhares de jogos paralelos se um algoritmo de aprendizado por reforço for executado em uma infraestrutura de computador suficientemente poderosa.
@@ -8,7 +10,7 @@ Embora o Cientista de Dados defina a política de recompensa – isto é, as reg
 
 ![OpenAi](https://user-images.githubusercontent.com/45602322/80557658-a2abd200-89a5-11ea-9f95-30b2757c29b3.png)
 
-O OpenAI é um laboratório de pesquisa com sede em San Francisco, Califórnia. Nossa missão é garantir que a inteligência geral artificial beneficie toda a humanidade.
+O OpenAI é um laboratório de pesquisa de inteligência geral artificial com sede em San Francisco, Califórnia. 
 
 * [OpenAI](https://openai.com/) - Site Oficial.
 
@@ -16,7 +18,8 @@ O OpenAI é um laboratório de pesquisa com sede em San Francisco, Califórnia. 
 
 ![OpenAIGym](https://user-images.githubusercontent.com/45602322/80557577-67a99e80-89a5-11ea-8870-d7c3a52ea377.jpeg)
 
-![Github](https://github.com/openai/gym)
+
+* [Github](https://github.com/openai/gym) - Repositorio Oficial.
 
 OpenAI Gym é um kit de ferramentas para desenvolver e comparar algoritmos de aprendizado por reforço. Ele oferece suporte a agentes de ensino, desde caminhadas até jogos como Pong ou pinball .
 
