@@ -6,16 +6,27 @@ Embora o Cientista de Dados defina a política de recompensa – isto é, as reg
 
 # OpenAI
 
+![OpenAi](https://user-images.githubusercontent.com/45602322/80557658-a2abd200-89a5-11ea-9f95-30b2757c29b3.png)
+
 O OpenAI é um laboratório de pesquisa com sede em San Francisco, Califórnia. Nossa missão é garantir que a inteligência geral artificial beneficie toda a humanidade.
 
 * [OpenAI](https://openai.com/) - Site Oficial.
 
 ## OpenAI Gym 
 
+![OpenAIGym](https://user-images.githubusercontent.com/45602322/80557577-67a99e80-89a5-11ea-8870-d7c3a52ea377.jpeg)
+
+![Github](https://github.com/openai/gym)
+
 OpenAI Gym é um kit de ferramentas para desenvolver e comparar algoritmos de aprendizado por reforço. Ele oferece suporte a agentes de ensino, desde caminhadas até jogos como Pong ou pinball .
 
 * [OpenAi Gym](https://gym.openai.com/) - Site Oficial.
 
+### Taxy-V3 
+
+Existem 4 locais (rotulados com letras diferentes) e seu trabalho é pegar o passageiro em um local e deixá-lo em outro. Você recebe +20 pontos por uma desistência bem-sucedida e perde 1 ponto para cada passo de tempo necessário. Também há uma multa de 10 pontos por ações ilegais de retirada e entrega.
+
+![Taxy-V3](https://user-images.githubusercontent.com/45602322/80442708-880d2680-88db-11ea-84de-aae1e7adba4c.gif)
 
 # Notebook
 
